@@ -6,7 +6,7 @@ Fairly self-explanatory
      width="265" 
      style="border-radius: 20px;">
      
-## Key Learnings:
+## Key Points Reveiwed:
 - MVVM Architecture
 - Dynamic UI
 - Smart Input
